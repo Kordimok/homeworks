@@ -14,7 +14,9 @@ if (num<=0 || num>7)
 {
 Console.Write("Такого дня не существует");
 }
-else if (num-1 == days.Length-2 || num-1==days.Length-1){
+else if (num-1 == days.Length-2 || num-1==days.Length-1)
+{
     Console.Write("Это выходной день");
 }
-else  Console.Write("Это рабочий день ");
+else  
+Console.Write("Это рабочий день ");
