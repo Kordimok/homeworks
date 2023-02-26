@@ -1,0 +1,15 @@
+D:\GB\C#\homeworks\dz_sem9_64\bin\Debug\net6.0\dz_sem9_64.exe
+D:\GB\C#\homeworks\dz_sem9_64\bin\Debug\net6.0\dz_sem9_64.deps.json
+D:\GB\C#\homeworks\dz_sem9_64\bin\Debug\net6.0\dz_sem9_64.runtimeconfig.json
+D:\GB\C#\homeworks\dz_sem9_64\bin\Debug\net6.0\dz_sem9_64.dll
+D:\GB\C#\homeworks\dz_sem9_64\bin\Debug\net6.0\dz_sem9_64.pdb
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.csproj.AssemblyReference.cache
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.AssemblyInfoInputs.cache
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.AssemblyInfo.cs
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.csproj.CoreCompileInputs.cache
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.dll
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\refint\dz_sem9_64.dll
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.pdb
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\dz_sem9_64.genruntimeconfig.cache
+D:\GB\C#\homeworks\dz_sem9_64\obj\Debug\net6.0\ref\dz_sem9_64.dll
